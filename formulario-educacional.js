@@ -21,7 +21,7 @@ else {
     alert("Você não inseriu um valor válido!");
 }
 
-let msg = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.");
+let msg = prompt("Você gostaria de aprender mais alguma tecnologia? Digite 'ok' em caso positivo.");
 while (msg === "ok"){
     let novaTecnologia = prompt("Qual?");
     alert(`${novaTecnologia} é realmente uma tecnologia muito legal!`)
