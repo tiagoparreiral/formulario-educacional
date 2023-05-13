@@ -15,7 +15,7 @@ if (especialidadeOuFullstack == 1){
     alert(`Continue se especializando em ${linguagem} para dominar a área de ${area}!`);
 }
 else if (especialidadeOuFullstack == 2){
-    alert(`Chegou a hora de começar a aprender outras linguagens além de ${linguagem} se você quer se tornar Fullstack!`);
+    alert(`Chegou a hora de aprender outras linguagens além de ${linguagem} se você quer se tornar Fullstack!`);
 }
 else {
     alert("Você não inseriu um valor válido!");
