@@ -24,7 +24,7 @@ else {
 let msg = prompt("Você gostaria de aprender mais alguma tecnologia? Digite 'ok' em caso positivo.");
 while (msg === "ok"){
     let novaTecnologia = prompt("Qual?");
-    alert(`${novaTecnologia} é realmente uma tecnologia muito legal!`)
+    alert(`${novaTecnologia} é realmente muito interessante!`)
     msg = prompt("Tem mais alguma tecnologia que você gostaria de aprender? Digite 'ok' em caso positivo.");
 }
 
