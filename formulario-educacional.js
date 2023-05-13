@@ -1,4 +1,4 @@
-const area = prompt("Você quer seguir para área de 'Front-End' ou de 'Back-End'? Digite o nome da área:");
+const area = prompt("Você pretende seguir para área de 'Front-End' ou de 'Back-End'? Digite o nome da área:");
 let linguagem = "";
 if (area === "Front-End"){
     linguagem = prompt("Você quer aprender React ou Vue?");
