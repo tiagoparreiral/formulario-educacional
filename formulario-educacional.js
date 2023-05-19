@@ -7,7 +7,7 @@ else if (area === "Back-End"){
     linguagem = prompt("Você quer aprender C# ou Java?");
 }
 else {
-    alert("Você não inseriu uma área válida!");
+    alert("Insira uma área válida!");
 }
 
 const especialidadeOuFullstack = prompt("Digite 1 para seguir se especializando na área escolhida ou 2 para seguir se desenvolvendo para se tornar Fullstack");
